@@ -1,0 +1,12 @@
+container
+mb-4
+mt-4
+
+text-primary
+
+list-group
+list-group-item
+
+pagination
+page-item
+page-link
